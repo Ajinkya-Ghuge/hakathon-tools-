@@ -1,4 +1,4 @@
- # hakathon-tools-
+ # Hakathon-Tools-
 | **Category**                  | **Tool**             | **Link**                                                                   | **What It Does**                           |
 | ----------------------------- | -------------------- | -------------------------------------------------------------------------- | ------------------------------------------ |
 | **Frontend / UI**             | V0.dev               | [v0.dev](https://v0.dev/)                                                  | Generate React + Tailwind UI from a prompt |
@@ -31,4 +31,4 @@
 |                               | Beautiful.ai         | [beautiful.ai](https://beautiful.ai/)                                      | Auto-slide creation                        |
 |                               | Tome.app             | [tome.app](https://tome.app/)                                              | AI storytelling slides                     |
 |                               | Canva                | [canva.com](https://canva.com/)                                            | Templates + AI design tools                |
-# hakathon-tools-
+
